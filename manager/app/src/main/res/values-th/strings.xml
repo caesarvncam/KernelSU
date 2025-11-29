@@ -181,4 +181,6 @@
     <string name="feature_status_unsupported_summary">เคอร์เนลของคุณไม่รองรับฟีเจอร์นี้</string>
     <string name="feature_status_managed_summary">คุณสมบัตินี้ถูกจัดการโดยโมดูล</string>
     <string name="module_repo">พื้นที่จัดเก็บโมดูล</string>
+    <string name="home_gki_warning">ตั้งแต่เวอร์ชัน 30000 เป็นต้นไป โหมด GKI จะถูกใช้เฉพาะในสภาพแวดล้อมการทดสอบเท่านั้น เราไม่แนะนำให้ใช้โหมดนี้ในชีวิตประจำวัน และจะไม่มีไฟล์อิมเมจ GKI ให้ใช้งานอีกต่อไป</string>
+    <string name="module_reinstall">ติดตั้งใหม่</string>
 </resources>
