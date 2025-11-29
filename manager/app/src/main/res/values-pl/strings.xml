@@ -182,4 +182,7 @@
     <string name="color_teal">Turkusowy</string>
     <string name="color_pink">Różowy</string>
     <string name="color_brown">Brązowy</string>
+    <string name="module_repo">Repozytorium modułów</string>
+    <string name="home_gki_warning">Począwszy od wersji 30000+, tryb GKI będzie używany wyłącznie w środowiskach testowych. Nie zalecamy jego stosowania w codziennym użytkowaniu, a pliki obrazów GKI nie będą już dostarczane.</string>
+    <string name="module_reinstall">Przeinstaluj</string>
 </resources>
