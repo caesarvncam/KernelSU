@@ -186,5 +186,7 @@
     <string name="settings_theme_mode_dark">Тёмная</string>
     <string name="module_repo">Репозиторий модулей</string>
     <string name="module_reinstall">Переустановить</string>
-    <string name="home_gki_warning">Начиная с версии 30000+, режим GKI будет использоваться только в тестовых средах. Мы не рекомендуем его для повседневного использования, и файлы образов GKI больше не будут предоставляться.</string>
+    <string name="home_gki_warning">Начиная с версии 3.0.0, режим работы GKI будет использоваться только в тестовых средах. Мы не рекомендуем его для ежедневного использования, а файлы образов больше предоставляться не будут.</string>
+    <string name="network_offline">Нет подключения к сети</string>
+    <string name="network_retry">Повторить</string>
 </resources>
