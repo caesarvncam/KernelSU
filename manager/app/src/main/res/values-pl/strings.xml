@@ -183,6 +183,8 @@
     <string name="color_pink">Różowy</string>
     <string name="color_brown">Brązowy</string>
     <string name="module_repo">Repozytorium modułów</string>
-    <string name="home_gki_warning">Począwszy od wersji 30000+, tryb GKI będzie używany wyłącznie w środowiskach testowych. Nie zalecamy jego stosowania w codziennym użytkowaniu, a pliki obrazów GKI nie będą już dostarczane.</string>
+    <string name="home_gki_warning">Począwszy od wersji 3.0.0, tryb pracy GKI będzie używany wyłącznie w środowiskach testowych. Nie zalecamy jego stosowania w codziennym użytkowaniu, a pliki obrazów nie będą już dostarczane.</string>
     <string name="module_reinstall">Przeinstaluj</string>
+    <string name="network_offline">Brak połączenia z siecią</string>
+    <string name="network_retry">Ponów</string>
 </resources>
