@@ -8,7 +8,7 @@
     <string name="home_superuser_count">スーパーユーザー: %d</string>
     <string name="home_module_count">モジュール: %d</string>
     <string name="home_unsupported">非対応</string>
-    <string name="home_unsupported_reason">現在､ KernelSU は GKI カーネルにのみ対応しています</string>
+    <string name="home_unsupported_reason">現在､ KernelSU は GKI カーネルにのみ対応しています。</string>
     <string name="home_kernel">カーネル</string>
     <string name="home_manager_version">アプリのバージョン</string>
     <string name="home_fingerprint">Fingerprint</string>
@@ -47,7 +47,7 @@
     <string name="module_magisk_conflict">モジュールが Magisk との競合により利用できません!</string>
     <string name="home_learn_kernelsu">KernelSU について</string>
     <string name="home_learn_kernelsu_url">https://kernelsu.org/ja_JP/guide/what-is-kernelsu.html</string>
-    <string name="home_click_to_learn_kernelsu">KernelSU のインストール方法やモジュールの使い方はこちら</string>
+    <string name="home_click_to_learn_kernelsu">KernelSU のインストール方法やモジュールの使い方はこちら。</string>
     <string name="home_support_title">支援する</string>
     <string name="home_support_content">KernelSU はこれからもずっと無料でオープンソースです。寄付をして頂くことで、開発を支援していただけます。</string>
     <string name="about_source_code"><![CDATA[%1$s でソースコードを表示<br/>%2$s チャンネルに参加]]></string>
@@ -76,7 +76,7 @@
     <string name="profile_capabilities">ケーパビリティ</string>
     <string name="module_downloading">モジュールをダウンロード中: %s</string>
     <string name="profile_umount_modules_summary">このオプションを有効にすると、KernelSU はこのアプリのモジュールによって変更されたファイルを復元できるようになります。</string>
-    <string name="settings_umount_modules_default">既定でモジュールのマウントを解除</string>
+    <string name="settings_umount_modules_default">モジュールのマウントを解除</string>
     <string name="settings_umount_modules_default_summary">アプリプロファイルの「モジュールのアンマウント」の共通のデフォルト値です。 有効にすると、プロファイルセットを持たないアプリのシステムに対するすべてのモジュールの変更が削除されます。</string>
     <string name="require_kernel_version">現在の KernelSU バージョン %d はマネージャーが適切に機能するには低すぎます。 バージョン %d 以降にアップグレードしてください！</string>
     <string name="module_changelog">変更履歴</string>
@@ -131,8 +131,8 @@
     <string name="save_log">ログを保存</string>
     <string name="action">アクション</string>
     <string name="log_saved">保存されたログ</string>
-    <string name="module_sort_enabled_first">並べ替え（最初に有効）</string>
-    <string name="module_sort_action_first">並べ替え（アクション優先）</string>
+    <string name="module_sort_enabled_first">最初に有効</string>
+    <string name="module_sort_action_first">まず行動する</string>
     <string name="settings_disable_su_summary">⁠su コマンドを使用してアプリがルート権限を取得する機能を無効にします (既存のルート プロセスは影響を受けません)。</string>
     <string name="su_not_allowed">%s にスーパーユーザーアクセスを許可できませんでした</string>
     <string name="settings_disable_su">su互換性を無効にする</string>
@@ -153,4 +153,11 @@
     <string name="refresh_release">リリースしてリフレッシュ</string>
     <string name="refresh_refresh">爽やか…</string>
     <string name="refresh_complete">更新に成功しました</string>
+    <string name="module_repo">モジュールリポジトリ</string>
+    <string name="metamodule_uninstall_confirm">モジュール %s をアンインストールしてもよろしいですか? この操作はすべてのモジュールに影響し、メタモジュールによって提供される特定の機能 (マウントなど) は動作しなくなります。</string>
+    <string name="home_gki_warning">バージョン30000以降、GKIモードはテスト環境でのみ使用されます。日常的な使用には推奨されません。また、GKIイメージファイルは提供されなくなります。</string>
+    <string name="module_reinstall">再インストール</string>
+    <string name="app_profile_affects_following_apps">以下のアプリに影響します</string>
+    <string name="install_select_partition">パーティションを選択</string>
+    <string name="feature_status_unsupported_summary">カーネルはこの機能をサポートしていません。</string>
 </resources>
