@@ -181,5 +181,7 @@
     <string name="feature_status_unsupported_summary">Kernel không hỗ trợ tính năng này.</string>
     <string name="module_repo">Kho lưu trữ Module</string>
     <string name="module_reinstall">Cài đặt lại</string>
-    <string name="home_gki_warning">Bắt đầu từ phiên bản 3.0+, chế độ GKI sẽ chỉ được sử dụng trong môi trường thử nghiệm. Chúng tôi không khuyến nghị sử dụng chế độ này và các file GKI image sẽ không còn được cung cấp nữa.</string>
+    <string name="home_gki_warning">Bắt đầu từ v3.0.0, chế độ GKI sẽ chỉ được sử dụng trong môi trường thử nghiệm. Chúng tôi không khuyến nghị sử dụng chế độ này và các file image sẽ không còn được cung cấp nữa.</string>
+    <string name="network_offline">Không có kết nối internet</string>
+    <string name="network_retry">Thử lại</string>
 </resources>
