@@ -180,4 +180,7 @@
     <string name="feature_status_managed_summary">Цією функцією керує модуль.</string>
     <string name="module_repo">Репозиторій модулів</string>
     <string name="module_reinstall">Перевстановіть</string>
+    <string name="home_gki_warning">Починаючи з версії 3.0.0, робочий режим GKI використовуватиметься лише в тестових середовищах. Ми не рекомендуємо його для щоденного використання, а файли зображень більше не надаватимуться.</string>
+    <string name="network_offline">Не підключено до мережі</string>
+    <string name="network_retry">Повторити спробу</string>
 </resources>
