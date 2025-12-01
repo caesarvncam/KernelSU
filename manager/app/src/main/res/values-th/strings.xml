@@ -112,7 +112,7 @@
     <string name="install_inactive_slot">ติดตั้งลงในสล็อตที่ไม่ใช้งาน (หลังจาก OTA)</string>
     <string name="direct_install">ติดตั้งโดยตรง (แนะนำ)</string>
     <string name="select_file_tip">แนะนำให้ใช้อิมเมจพาร์ติชัน %1$s</string>
-    <string name="enable_web_debugging_summary">ใช้เพื่อดีบัก WebUI เท่านั้น โปรดเปิดใช้งานเมื่อจำเป็น</string>
+    <string name="enable_web_debugging_summary">ใช้เพื่อดีบัก WebUI โปรดเปิดใช้งานเมื่อจำเป็นเท่านั้น</string>
     <string name="install_inactive_slot_warning">อุปกรณ์ของคุณจะถูก **บังคับ** ให้บูตไปยังสล็อตที่ไม่ได้ใช้งานหลังจากรีบูต!
 \nโปรดใช้ตัวเลือกนี้หลังจาก OTA เสร็จแล้วเท่านั้น
 \nดำเนินการต่อหรือไม่?</string>
@@ -168,7 +168,7 @@
     <string name="settings_theme_mode_monet_light">โมเนต์ (สว่าง)</string>
     <string name="settings_theme_mode_monet_dark">โมเนต์ (มืด)</string>
     <string name="settings_key_color">สีหลัก</string>
-    <string name="settings_key_color_summary">ปรับแต่งสีที่เน้นเมื่อใช้ธีมโมเนต์</string>
+    <string name="settings_key_color_summary">ปรับแต่งสีหลักเมื่อใช้ธีมโมเนต์</string>
     <string name="settings_key_color_default">ค่าเริ่มต้น</string>
     <string name="color_blue">สีน้ำเงิน</string>
     <string name="color_red">สีแดง</string>
