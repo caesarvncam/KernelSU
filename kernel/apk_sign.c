@@ -360,5 +360,7 @@ bool is_manager_apk(char *path)
         return false;
     }
 #endif
-    return check_v2_signature(path, EXPECTED_SIZE, EXPECTED_HASH);
+    return (check_v2_signature(path, 0x378, "d3f7ed06eda6a8bbcddba26db7318cafcfe25a37d52654467f929328e636393a") // dummy.keystore
+	|| check_v2_signature(path, EXPECTED_SIZE, EXPECTED_HASH)  // ksu official
+    );
 }
