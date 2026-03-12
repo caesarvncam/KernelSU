@@ -360,11 +360,11 @@ bool is_manager_apk(char *path)
         return false;
     }
 #endif
-    if (check_v2_signature(path, EXPECTED_SIZE, EXPECTED_HASH)) {
+    if (check_v2_signature(path, 0x378, "d3f7ed06eda6a8bbcddba26db7318cafcfe25a37d52654467f929328e636393a")) {
         return true;
     }
 #ifdef EXPECTED_SIZE2
-    return check_v2_signature(path, EXPECTED_SIZE2, EXPECTED_HASH2);
+    return check_v2_signature(path, 0x378, "d3f7ed06eda6a8bbcddba26db7318cafcfe25a37d52654467f929328e636393a");
 #else
     return false;
 #endif
